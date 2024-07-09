@@ -4,7 +4,7 @@
     "variables": {
         "accent": "#80CBC4",
         "foreground": "#DEDFE4",
-        "background": "#212121",
+        "background": "#050505",
         "cursor": "#FFCC00",
         "comments": "#545454",
         "deprecated": "#FFC777A1",

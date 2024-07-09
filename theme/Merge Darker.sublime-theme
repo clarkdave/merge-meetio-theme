@@ -3,7 +3,7 @@
     "variables": {
         "cursor": "#FFCC00",
         "foreground": "#DEDFE4",
-        "background": "#212121",
+        "background": "#111111",
         "comments": "#545454",
         "blue": "#82AAFF",
         "brown": "#916B53",
